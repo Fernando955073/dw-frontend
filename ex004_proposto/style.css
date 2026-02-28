@@ -1,4 +1,4 @@
-img[src="assets/imagens/Blackeyegalaxy.jpg"] {
-    width: 20%; /*Largura*/
-    height: 50%;/*Altura*/
+body {
+    background-color: #333; /* Cor escura */
+    color: white; /* Cor do texto para contraste */
 }
