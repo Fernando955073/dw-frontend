@@ -1,0 +1,47 @@
+/* {
+    margin: 0;
+    padding: 0;
+
+}
+*/
+#header {
+    height: 120px;
+    display: flex;
+}
+
+#logo {
+    width: 15%;
+    background: url(assets/imagens/Logo_Lutorcorp.png) no-repeat center center/contain;
+}
+#nav{
+    width: 85%;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#nav a {
+    /*text-decoration: none;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    background-color: blueviolet;*/
+
+}
+
+#tituloUm {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    color: green;}
+
+.subNivel2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+#subOne {
+    color: blue;
+}
+#subTwo {
+    color: red;
+}
